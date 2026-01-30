@@ -9,7 +9,7 @@
 A **secure, customizable, and responsive Password Generator** built with **vanilla JavaScript**.  
 Designed with clean UI, real-time strength feedback, and usability in mind.
 
-👉 **Live Demo:** https://nazishrahmani.github.io/Password-Generator.github.io/
+👉 **Live Demo:** https://password-generator-github-io.vercel.app/
 
 ---
 
@@ -46,4 +46,5 @@ Password strength is calculated based on:
 - **Font Awesome** – Icons
 
 ---
+
 
